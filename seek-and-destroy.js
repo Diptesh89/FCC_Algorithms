@@ -1,5 +1,5 @@
 
-//https://www.freecodecamp.org/challenges/seek-and-destroy
+//Day 19: April 14, 2018 //https://www.freecodecamp.org/challenges/seek-and-destroy
 
 function destroyer(arr) {
   // Remove all the values
